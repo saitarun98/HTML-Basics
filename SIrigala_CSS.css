@@ -1,0 +1,17 @@
+body
+{
+	color: lightblue;
+}
+
+h1
+{	
+	position:center;
+	text: black;
+	background-color:Gainsboro;
+}
+
+form
+{ 
+	background-color:black;
+	text:white;
+}
